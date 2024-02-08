@@ -18,6 +18,9 @@ Estou em constante busca por conhecimento e meu objetivo é aprender cada vez ma
 
 Vamos aprender juntos! 🚀
 
+
+
+
 <!---
 FabioJamaL/FabioJamaL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
