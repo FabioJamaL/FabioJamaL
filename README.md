@@ -3,23 +3,20 @@
 📚 Apaixonado por livros | 🎮 Gamer | 📺 Seriados
 
 ## Sobre mim
-Olá! Sou o FabioJamal, um entusiasta de tecnologia que adora explorar o mundo dos livros, jogos e seriados. Atualmente, estou focado em aprimorar minhas habilidades em:
+Olá! Sou o Fabio José do Amaral, um entusiasta de tecnologia que adora explorar o mundo dos livros, jogos e seriados, e estou focado em aprimorar minhas habilidades em:
 
 - 💻 JavaScript
 - 🗃️ MySQL
 
+Atualmente, estudo aprendendo Front-End, JavaScript e PostgreSQL no Senac-GO
 Estou em constante busca por conhecimento e meu objetivo é aprender cada vez mais. Além disso, estou aqui para ajudar e compartilhar o que aprendo com a comunidade.
 
-## Contato
+## * Contato:
 - http://www.linkedin.com/fabiojamaral
-- https://x.com/fabiojamaral?t=U2akSgZahq5YqxYgr6Kh3g&s=09
-- https://www.facebook.com/fabiojamaral?mibextid=ZbWKwL
-- https://www.instagram.com/fabiojamaral?igsh=YzljYTk1ODg3Zg==
-- https://www.tiktok.com/@fabiojamaral_?_t=8jicEVo7Yzm&_r=1
+- fabiojamaral@hotmail.com.br
 
+  
 Vamos aprender juntos! 🚀
-
-
 
 
 <!---
