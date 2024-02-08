@@ -3,15 +3,21 @@
 📚 Apaixonado por livros | 🎮 Gamer | 📺 Seriados
 
 ## Sobre mim
-Olá! Sou o Fabio José do Amaral, um entusiasta de tecnologia que adora explorar o mundo dos livros, jogos e seriados, e estou focado em aprimorar minhas habilidades em:
+Olá! 
+Sou o Fabio José do Amaral, um entusiasta de tecnologia que adora explorar o mundo dos livros, jogos e seriados, e estou focado em aprimorar minhas habilidades em:
 
-- 💻 JavaScript
-- 🗃️ MySQL
+➤ 💻 JavaScript
 
-Atualmente, estudo aprendendo Front-End, JavaScript e PostgreSQL no Senac-GO
-Estou em constante busca por conhecimento e meu objetivo é aprender cada vez mais. Além disso, estou aqui para ajudar e compartilhar o que aprendo com a comunidade.
+➤ 🗃️ MySQL
 
-## * Contato:
+
+Atualmente, estudo aprendendo Front-End, JavaScript e PostgreSQL no Senac-GO do setor Santa Genoveva.
+
+Estou em constante busca por conhecimento e meu objetivo é aprender cada vez mais. 
+
+Além disso, estou aqui para ajudar e compartilhar o que aprendo com a comunidade.
+
+## • Contato:
 - http://www.linkedin.com/fabiojamaral
 - fabiojamaral@hotmail.com.br
 
