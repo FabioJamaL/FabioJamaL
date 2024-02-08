@@ -13,6 +13,8 @@ Estou em constante busca por conhecimento e meu objetivo é aprender cada vez ma
 ## Contato
 - http://www.linkedin.com/fabiojamaral
 - https://x.com/fabiojamaral?t=U2akSgZahq5YqxYgr6Kh3g&s=09
+- https://www.facebook.com/fabiojamaral
+- https://www.instagram.com/fabiojamaral
 
 Vamos aprender juntos! 🚀
 
