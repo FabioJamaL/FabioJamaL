@@ -6,9 +6,9 @@
 Olá! 
 Sou o Fabio José do Amaral, um entusiasta de tecnologia que adora explorar o mundo dos livros, jogos e seriados, e estou focado em aprimorar minhas habilidades em:
 
-➤ 💻 JavaScript
+➢ 💻 JavaScript
 
-➤ 🗃️ MySQL
+➢ 🗃️ MySQL
 
 
 Atualmente, estudo aprendendo Front-End, JavaScript e PostgreSQL no Senac-GO do setor Santa Genoveva.
