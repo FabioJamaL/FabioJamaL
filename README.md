@@ -14,7 +14,7 @@ Estou em constante busca por conhecimento e meu objetivo é aprender cada vez ma
 - http://www.linkedin.com/fabiojamaral
 - https://x.com/fabiojamaral?t=U2akSgZahq5YqxYgr6Kh3g&s=09
 - https://www.facebook.com/fabiojamaral?mibextid=ZbWKwL
-- https://www.instagram.com/fabiojamaral?igsh=YzljYTk1ODg3Zg==)
+- https://www.instagram.com/fabiojamaral?igsh=YzljYTk1ODg3Zg==
 - https://www.tiktok.com/@fabiojamaral_?_t=8jicEVo7Yzm&_r=1
 
 Vamos aprender juntos! 🚀
